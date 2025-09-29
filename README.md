@@ -1,1 +1,1 @@
-# Snowflake-data-ingestion
+# snowflake-data-ingestion
